@@ -1,0 +1,72 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+#tab ul
+{
+	list-style: none;
+	margin-top: -130px;
+	display: flex;
+	margin-left: 40%;
+}
+#tab ul li
+{
+	padding: 2px;
+	list-style: none;
+}
+.quick
+{
+	height: 40px;
+	width: 310px;
+	color: #fff;
+	background-color: #9932F9;
+	border-radius: 10px;
+	padding: 6px;
+	margin-top: 50px;
+}
+.footer .bottom
+{
+	margin-top: 100px;
+	padding-top: 8px;
+}
+
+.footer
+{
+	width: 100%;
+	height: 50px;
+	background-color: #9932F9;
+	color: #000;
+}
+#apDiv1
+{
+	width: 55%;
+	margin-left: 25%;
+	margin-top: -420px;
+}
+.main1
+{
+	margin-top: -340px;
+	margin-left: 85%;
+	padding-top: 2px;
+}
+#mainform
+{
+	margin-top: -70px;
+	margin-left: 5%;
+}
+.al
+{
+	height: 40px;
+	width: 100%;
+	background-color: #9932F9;
+	border-radius: 5px;
+}
+.al label
+{
+	font-weight: bold;
+	color: #fff;
+	margin-left: 40%;
+	margin-top: 4px;
+}
+
